@@ -15,6 +15,7 @@
 ###
 
 <div style="display: inline_block">
+  <img align="center" alt="mateus-python" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="Mateus-C" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="Mateus-C++" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Mateus-html5" height="38" width="40" 
